@@ -1,7 +1,7 @@
 {
     "autoStart": true,
     "fullscreen": true,
-    "lazyLoadTabs": true,
+    "lazyLoadTabs": false,
     "websites": [
         {
             "url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
@@ -10,7 +10,7 @@
         },
         {
             "url": "https://entsolarwinds.lan.stratospherehotel.com",
-            "duration": 30,
+            "duration": 60,
             "tabReloadIntervalSeconds": 300
         }
     ]
