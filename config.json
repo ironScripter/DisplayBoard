@@ -12,6 +12,11 @@
             "url": "https://entsolarwinds.lan.stratospherehotel.com/Orion/SummaryView.aspx?ViewID=139&isNOCView=true",
             "duration": 60,
             "tabReloadIntervalSeconds": 1200
+        },
+        {
+            "url": "https://coin360.com/table",
+            "duration": 10,
+            "tabReloadIntervalSeconds": 300
         }
     ]
 }
