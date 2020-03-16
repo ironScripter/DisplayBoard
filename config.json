@@ -4,7 +4,7 @@
     "lazyLoadTabs": false,
     "websites": [
         {
-            "url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6",
+            "url": "https://bing.com/covid",
             "duration": 10,
             "tabReloadIntervalSeconds": 300
         },
