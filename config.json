@@ -17,6 +17,11 @@
             "url": "https://coin360.com/table",
             "duration": 10,
             "tabReloadIntervalSeconds": 300
+        },
+        {
+            "url": "https://rg-swind/Orion/SummaryView.aspx?isNOCView=true",
+            "duration": 60,
+            "tabReloadIntervalSeconds": 300
         }
     ]
 }
