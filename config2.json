@@ -6,7 +6,7 @@
     "websites": [
         {
             "url": "https://entsolarwinds.lan.stratospherehotel.com/Orion/SummaryView.aspx?ViewID=139&isNOCView=true",
-            "duration": 60,
+            "duration": 30,
             "tabReloadIntervalSeconds": 300
         },
         {
@@ -16,7 +16,7 @@
         },
         {
             "url": "https://rg-swind/Orion/SummaryView.aspx?isNOCView=true",
-            "duration": 60,
+            "duration": 30,
             "tabReloadIntervalSeconds": 300
         },
         {
